@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.btn {
+  width: 180px;
+  height: 50px;
+  font-size: 20px;
+  background-color: #160d36;
+  color: #fffefe;
+  border-radius: 15px;
+  border: none;
+  font-family: "Roboto";
+}

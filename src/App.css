@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+header {
+  position: relative;
+  width: auto;
+  background-color:  rgb(18, 5, 39);
+
+  height: 60px;
+}
+
+span {
+  font-family: "Roboto";
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  line-height: 69px;
+  padding-left: 15px;
+  color:#80e4e4;
+  
+  cursor: pointer;
+}
+.App {
+  width: auto;
+  height: 100vh;
+  background-image: linear-gradient(to right, rgb(87, 195, 245) , rgb(241, 91, 196));
+ 
+}
